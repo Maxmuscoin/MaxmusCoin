@@ -1,1 +1,1 @@
-mkdir contracts
+touch MaxmusCoin.sol
